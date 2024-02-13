@@ -1,7 +1,7 @@
 # Tien-Shan-Active-Fault-Database
 Tien Shan Active Fault Database is a multi-functional digital collection of active faults which integrates decades of mapping and field studies in Central Asia by researchers from the UK Centre for Observation and Modelling of Earthquakes, Volcanoes and Tectonics (COMET) alongside global collaborators. 
 
-<img src="preview_image.png" alt="Tien-Shan-Active-Fault-Database" width="300" />
+<img src="preview_image.PNG" alt="Tien-Shan-Active-Fault-Database" width="300" />
 
 The database compiles active fault traces and metadata at three different scales to serve a variety of purposes that fault databases are conventionally used for: the finest scale for site-specific study reference, an intermediate scale for regional kinematics and seismotectonics, and a coarse scale from which structures may be extracted for geodetic modelling and seismic source models: 
 * **Level 1:** Fine-scale mapping of scarps and ruptures (approximately 1:10k scale) 
