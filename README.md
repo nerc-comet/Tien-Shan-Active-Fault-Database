@@ -16,7 +16,7 @@ If you’d like to be involved in this work, or be informed of future updates, p
 ## Publication
 King, T., Elliott, A., Grützner, C., Styron, R., and Walker, R. (2024). The Tien Shan Active Fault Database: a multi-tiered multi-purpose active fault database Scientific Data [IN REVIEW].
 ## Database
-[Zenodo link]
+Download the database from [Zenodo](https://zenodo.org/records/10659677)
 
 Contact: Through ongoing and future projects, COMET researchers will continue to improve the accuracy of mapped faults and map previously unidentified faults. These will be incorporated into the database on an ad-hoc basis. If any users wish to suggest edits / additions / deletions to the database, please email comet@leeds.ac.uk and it will reach the current database manager. 
 ## Acknowledgements:
